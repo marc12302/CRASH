@@ -2,11 +2,11 @@
 
 ❗❗❗**I don't tolerate gambling because it can lead to big money losses, this is just a showcase in which I show curious people what a simple algorithm for CRASH would look like.**
 
-❗❗❗**Let's not forget that the casinos bring us only loss and that all the games are in favor of the casinos!**
+❗❗❗**Let's not forget that the casinos bring us only losses and that all the games favor the casinos!**
 
 
 This small showcase presents a CRASH game (source code) made with a simple algorithm.
-<br>This game is written in C++.
+<br>This program is written in C++.
 ## Compatibility:
 <ul>
 <li>MacOS</li>
