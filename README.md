@@ -6,7 +6,7 @@
 
 
 This small showcase presents a CRASH game (source code) made with a simple algorithm.
-This game is written in C++.
+<br>This game is written in C++.
 ## Compatibility:
 <ul>
 <li>MacOS</li>
