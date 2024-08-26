@@ -10,7 +10,7 @@ This small showcase presents a CRASH game (source code) made with a simple algor
 ## Compatibility:
 <ul>
 <li>MacOS</li>
-<li>Linux (probably I didn't test it)</li>
+<li>Linux (I didn't test it)</li>
 </ul>
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
