@@ -1,0 +1,3 @@
+/Users/lenard/Library/CloudStorage/Dropbox/WORK/CRASH_GAME/cmake-build-debug/CMakeFiles/CRASH_GAME.dir
+/Users/lenard/Library/CloudStorage/Dropbox/WORK/CRASH_GAME/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lenard/Library/CloudStorage/Dropbox/WORK/CRASH_GAME/cmake-build-debug/CMakeFiles/rebuild_cache.dir
